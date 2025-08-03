@@ -1,16 +1,10 @@
 # 👋 Hi there, I'm Donia Alhosin
 
-<div align="center">
-
 ## 🚀 Full-Stack Web Developer & WordPress Specialist
 
 Passionate about creating innovative web solutions that drive business growth. From e-commerce platforms to custom WordPress plugins, I transform complex challenges into elegant, user-friendly solutions.
 
-</div>
-
 ---
-
-<div align="center">
 
 ### 🎯 What I Do
 
@@ -20,11 +14,7 @@ Passionate about creating innovative web solutions that drive business growth. F
 • **Custom Plugin Development** - Tailored solutions for specific business needs  
 • **UI/UX Design** - User-centered design with Figma
 
-</div>
-
 ---
-
-<div align="center">
 
 ### 🛠️ Tech Stack
 
@@ -39,11 +29,7 @@ Passionate about creating innovative web solutions that drive business growth. F
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-</div>
-
 ---
-
-<div align="center">
 
 ### 🏆 Key Achievements
 
@@ -53,13 +39,9 @@ Passionate about creating innovative web solutions that drive business growth. F
 • **Multi-language Support** (Arabic RTL, English, German)  
 • **IoT & Wearable Technology** experience
 
-</div>
-
 ---
 
 ### 🌟 Featured Projects
-
-<div align="center">
 
 #### 🛒 E-commerce Solutions
 
@@ -79,25 +61,17 @@ Passionate about creating innovative web solutions that drive business growth. F
 • **[Goodreads Library](https://goodreadslib.netlify.app/)** - Angular + Node.js library management  
 • **[Smart Wearable Glasses](https://github.com/devDoniaAlhosin)** - IoT project for autistic children
 
-</div>
-
 ---
-
-<div align="center">
 
 ### 📊 GitHub Stats
 
-![Donia's GitHub stats](https://github-readme-stats.vercel.app/api?username=devDoniaAlhosin&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+![Donia's GitHub stats](https://github-readme-stats.vercel.app/api?username=devDoniaAlhosin&show_icons=true&theme=graywhite&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devDoniaAlhosin&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devDoniaAlhosin&layout=compact&theme=graywhite&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devDoniaAlhosin&theme=radical&hide_border=true&background=0d1117)
-
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devDoniaAlhosin&theme=graywhite&hide_border=true)
 
 ---
-
-<div align="center">
 
 ### 🌍 Languages I Speak
 
@@ -105,11 +79,7 @@ Passionate about creating innovative web solutions that drive business growth. F
 • 🇺🇸 **English** (Fluent)  
 • 🇩🇪 **German** (Basic)
 
-</div>
-
 ---
-
-<div align="center">
 
 ### 📫 Let's Connect
 
@@ -117,11 +87,7 @@ Passionate about creating innovative web solutions that drive business growth. F
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://donia-minimal-folio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:doniaelhussien@email.com)
 
-</div>
-
 ---
-
-<div align="center">
 
 ### 💡 What I'm Currently Working On
 
@@ -137,14 +103,8 @@ Passionate about creating innovative web solutions that drive business growth. F
 • **Open Source Contributions** to meaningful projects  
 • **Mentorship** opportunities to help junior developers
 
-</div>
-
 ---
-
-<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=devDoniaAlhosin&style=flat-square&color=blue" alt="Profile Views"/>
 
-*"Code is like humor. When you have to explain it, it's bad." - Cory House*
-
-</div> 
+*"Code is like humor. When you have to explain it, it's bad." - Cory House* 
